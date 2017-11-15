@@ -1,0 +1,262 @@
+/*
+* @Author: admin
+* @Date:   2017-07-28 21:26:57
+* @Last Modified by:   admin
+* @Last Modified time: 2017-08-11 10:43:09
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+.top{
+	width: 100%;
+	position:relative;
+}
+.top .pzp{
+	position:absolute;
+	top: 0;
+	right:430px;
+	width:200px;
+}
+.top .pzp .mpo{	
+	margin:-15px 0;
+	width:200px;
+}
+.top .pzp li a{
+	font-size: 13px;
+	margin-left: 20px;
+}
+.top .pzp ul form{
+	width:80px;
+	margin-left:-13px;
+	margin-top:-15px;
+	position:absolute;
+}
+.top .pzp ul form input:nth-of-type(1){
+	height:30px;
+	border:1px solid #d5d5d5;
+	margin-top:45px;
+	margin-left:0px;
+	font-size:12px;
+}
+.top .pzp ul form input:nth-of-type(2){
+	position:absolute;
+	top:45px;
+	right:-83px;
+	background:#d5d5d5;
+	border:1px solid #d5d5d5;
+	width:40px;
+	height:32px;
+	cursor: pointer;
+}
+.top ul{
+	width:77%;
+	height: 80px;
+	margin:0 auto;
+	position:absolute;
+	top:-95px;
+	left:298px;
+}
+.top ul .one{
+	margin-left: 10px; 
+	list-style: none;
+	float:left;
+	margin-top:15px;
+}
+.top ul li{
+	margin-left: 60px; 
+	list-style: none;
+	float:left;
+	line-height: 60px;
+	margin-top:30px;
+}
+.top ul li a {
+	text-decoration: none;
+	color:#000;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.banner{
+	width:1349px;
+	margin-top:94px;
+	position:relative;
+	height:426px;
+	overflow: hidden;
+}
+.banner img{
+	width:100%;
+}
+.banner ul{
+	width:5000px;
+	position:absolute;
+	height:426px;
+}
+.banner li{
+	float:left;
+	width:1364px;
+}
+.banner>span{
+	width:60px;
+	height:60px;
+	background:rgba(0,0,0,0.4);
+	color:white;
+	font-size:50px;
+	position:absolute;
+	top: 50%;
+	border-radius:50%;
+	text-align:center;
+	line-height:60px;
+	cursor:pointer;
+}
+.banner>span:nth-of-type(1){
+	left:15%;
+}
+.banner>span:nth-of-type(2){
+	left:75%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.NR{
+	height:906px;
+	background:url('../images/index01.jpg') ;
+	background-size: 100%;
+	position:absolute;
+	top:516px;
+	left:0;
+	width:100%
+} 
+.NR ul{
+	width: 900px;
+	position:absolute;
+	top:50px;
+	left:33%;
+	list-style:none;
+}
+.NR ul li{
+	float:left;
+	margin:0 auto;
+} 
+.NR ul li a{
+	color:white;
+	text-decoration:none;
+	font-size: 15px;
+}
+.zr{
+	width:1200px;	
+}
+.zr ul{
+	width:1050px;
+	position:absolute;
+	top:115px;
+	left:12%;
+}
+.zr ul li{
+	margin-left:10px;
+	float:left;
+}
+.zr ul li .lll{
+	width:460px; 
+	color:#000;
+	margin-top:10px;
+	margin-left:20px;
+}
+.zr ul li h1{
+	font-size:16px;
+	text-decoration:none;
+	color:white;
+}
+.zr ul li .bbb{
+	width:460px; 
+	color:#000;
+	margin-top:-13px;
+	margin-left:55%;
+	float:right;
+}
+.kkl{
+	position:relative;
+	bottom:-94%;
+	left:-13%; 
+	width:1349px;
+}
+.kkl .qas{
+	text-decoration:none;
+	margin:0 auto;
+	margin-top:0px;
+	background:#cccccc;
+	width:1350px;
+	margin-left:-271px;
+	height:35px;
+	position:relative;
+}
+.kkl .qas p{
+	text-align:center;
+	font-size:13px;
+}
+.kkl .bnm {
+	text-align: center;
+	color:white;
+	position:absolute;
+	top: 0;
+	left:0;
+}
+.kkl .bnm {
+	position:absolute;
+	top:15px;
+	left:420px;
+	text-align: center;
+	color:white;
+}
+.kkl .bnm li .qax{
+	font-size:14px;
+	color:#000;
+}

@@ -1,0 +1,255 @@
+/*
+* @Author: admin
+* @Date:   2017-07-29 10:57:46
+* @Last Modified by:   admin
+* @Last Modified time: 2017-08-10 18:11:01
+*/
+.top ul li{
+	margin-left: 60px; 
+	list-style: none;
+	float:left;
+	line-height: 60px;
+	margin-top:30px;
+}
+.top ul li a {
+	text-decoration: none;
+	color:#000;
+}
+.banner{
+	width:100%;
+}
+.banner img{
+	width:100%;
+	display: block;
+}
+.NR{
+	height:906px;
+	background:url('../images/index01.jpg');
+	background-size:100%;
+	position:absolute;
+	top:516px;
+	left:0;
+	width:100%;
+}
+.NR .qqq{
+	width:500px;
+	position:absolute;
+	top:20px;
+	left:20%;
+	list-style:none;
+}
+.NR .qqq li:nth-of-type(4) a{
+	color:red;
+}
+.NR .zr .www{
+	width:1050px;
+	position:absolute;
+	top: 115px;
+	left: 12%;
+}
+.NR .zr .www li{
+	position:absolute;
+}
+.NR .zr .www li:nth-of-type(1){
+	top: -50px;
+	left:360px;
+}
+.NR .zr .www li:nth-of-type(2){
+	top: -10px;
+	right: 435px;
+}
+.NR .zr .www li:nth-of-type(2) hr{
+	width:270px;
+}
+.zr .nnr {
+	width:1000px;
+	margin-top:5px;
+	text-indent: 2em;
+	margin-left:35px;
+	font-size:15px;	
+	line-height:50px;
+}
+.zr .nnr p{
+	margin:0 70px;
+	color:#e3e2e0;
+	font-size:13px;
+}
+.kkl{
+	position:relative;
+	bottom:-94%;
+	left:-13%; 
+	width:1350px;
+
+}
+.kkl .qas{
+	text-decoration:none;
+	margin:0 auto;
+	margin-top:0px;
+	background:#cccccc;
+	width:1350px;
+	margin-left:-272px;
+	height:35px;
+	position:relative;
+}
+.kkl .qas p{
+	text-align:center;
+	font-size:13px;
+}
+.kkl .bnm {
+	text-align: center;
+	color:white;
+	position:absolute;
+	top: 0;
+	left:0;
+}
+.kkl .bnm {
+	position:absolute;
+	top:15px;
+	left:420px;
+	text-align: center;
+	color:white;
+}
+.kkl .bnm li .qax{
+	font-size:14px;
+	color:#000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,381 @@
+
+/*
+* @Author: admin
+* @Date:   2017-07-30 11:29:47
+* @Last Modified by:   admin
+* @Last Modified time: 2017-08-11 23:17:58
+*/
+.NR{
+	background:white;
+	height:1600px;
+}
+.NR .one{
+	width: 800px;
+	height: 30px;
+	margin-top:0px;
+	margin-left:-50px;
+}
+.NR .one li {
+	 float: left;
+}
+.NR .one li:nth-of-type(1) hr{
+	width:200px;
+	margin-top: 10px;
+	color:#a6a4a5;
+}
+.NR .one li:nth-of-type(2) p{
+	text-align: center;
+	margin-bottom: 5px;
+	color:#5f5f5f;
+}
+
+.NR .one li:nth-of-type(3) hr{
+	width:200px;
+	margin-top: 10px;
+	color:#a6a4a5;
+}
+.NR .two{
+	width:500px;
+	height:180px;
+	margin-top:80px;
+	margin-left:-25px;
+}
+.NR .two li{
+	height:250px;
+}
+.NR .two li p{
+	line-height:30px;
+	font-size: 13px;
+	color:#ababab;
+	text-indent: 2em;
+}
+.NR .two li a{
+	position: absolute;
+	top: 130px;
+	left:420px;
+	color:#000;
+	font-size:14px;
+}
+.NR .three{
+	width: 800px;
+	height: 30px;
+	margin-top:250px;
+	margin-left:-50px;
+}
+.NR .three li {
+	 float: left;
+
+}
+.NR .three li:nth-of-type(1) hr{
+	width:200px;
+	margin-top: 10px;
+	color:#a6a4a5;
+}
+.NR .three li:nth-of-type(2) p{
+	text-align: center;
+	margin-bottom: 5px;
+	color:#5f5f5f;
+	margin:0 28px;
+	line-height:30px;
+}
+
+.NR .three li:nth-of-type(3) hr{
+	width:200px;
+	margin-top: 10px;
+	color:#a6a4a5;
+}
+.NR .four{
+	width:900px;
+	height:300px;
+	margin-top: 325px;
+	margin-left:-130px;
+}
+.NR .four img{
+	width:200px;
+	height:130px;
+}
+.NR .four li{
+	margin: 0 25px;
+}
+.NR .four p{
+	padding-left:85px;
+	font-size:20px;
+	font-family: "华文行楷";
+}
+.NR .four pre:nth-of-type(1) p{
+	margin-left:23px;
+}
+.NR .four pre:nth-of-type(2){
+	margin-top:-70px;
+	margin-left:275px;
+}
+.NR .four pre:nth-of-type(3){
+	margin-top:-70px;
+	margin-left:525px;
+}
+.NR .five{
+	width: 581px;
+	height: 30px;
+	margin-top:580px;
+	margin-left:-50px;
+}
+.NR .five li{
+	float:left;
+}
+.NR .five li:nth-of-type(1) hr{
+	width:200px;
+	margin-top: 10px;
+	color:#a6a4a5;
+}
+.NR .five li:nth-of-type(2) p{
+	text-align: center;
+	margin-bottom: 5px;
+	color:#5f5f5f;
+	margin:0 28px;
+	line-height:30px;
+}
+
+.NR .five li:nth-of-type(3) hr{
+	width:200px;
+	margin-top: 10px;
+	color:#a6a4a5;
+}
+.NR .six{
+	width:760px;
+	height:400px;
+	margin-top:680px;
+	margin-left:-115px;
+}
+.NR .six img{
+	width:220px;
+	height:200px;
+}
+.NR .six li{
+	border: 2px solid #5f5f5f;
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	overflow: hidden;
+	margin:0 24px;
+}
+.NR .six span{
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	position:absolute;
+	text-align:center;
+	line-height:200px;
+	font-size:30px;
+	font-weight: blod;
+	font-family:'楷体';
+	color:white;
+	display:none;
+	background:rgba(0,0,0,0.4);
+}
+.NR .six hr{
+	width:770px;
+	margin-top:215px;
+	margin-left:0px;
+}
+.NR .seven{
+	width:700px;
+	height:300px;
+	margin-top:900px;
+	margin-left:-80px;
+}
+.NR .seven .scipt p:nth-of-type(1){
+	font-size:17px;
+	text-align:center;
+	color:#5f5f5f;
+}
+.NR .seven .scipt p:nth-of-type(2){
+	text-indent: 2em;
+	font-size:14px;
+	margin-bottom: 30px;
+	line-height:25px;
+	color:#5f5f5f;
+}
+.NR .seven .scipt p:nth-of-type(3){
+	text-indent: 2em;
+	font-size:14px;
+	line-height:25px;
+	color:#5f5f5f;
+}
+.NR .seven .link{
+	margin-top:10px;
+	margin-left:620px;
+}
+.NR .seven .link a{
+	color:#75918d;
+}
+.NR .eight{
+	width:566px;
+	height:30px;
+	margin-top:1200px;
+	margin-left:-20px;
+}
+.NR .eight li{
+	float:left;
+}
+.NR .eight li:nth-of-type(1) hr{
+	width:200px;
+	margin-top: 10px;
+	color:#a6a4a5;
+}
+.NR .eight li:nth-of-type(2) p{
+	text-align: center;
+	margin-bottom: 5px;
+	color:#5f5f5f;
+	margin:0 28px;
+	line-height:30px;
+}
+
+.NR .eight li:nth-of-type(3) hr{
+	width:200px;
+	margin-top: 10px;
+	color:#a6a4a5;
+}
+.NR .nice{
+	width:566px;
+	height:200px;
+	margin-left:5px;
+	margin-top:1270px;
+}
+.NR .nice table{
+	margin:20px auto;
+}
+.NR .nice table tr td{
+	padding-bottom:40px;
+	padding-left:60px;
+}
+.kkl{
+	position:relative;
+	bottom:-95%;
+	left:-13%; 
+	width:1349px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

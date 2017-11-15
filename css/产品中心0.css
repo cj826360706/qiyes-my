@@ -1,0 +1,127 @@
+/*
+* @Author: admin
+* @Date:   2017-08-10 18:19:35
+* @Last Modified by:   admin
+* @Last Modified time: 2017-08-10 23:00:21
+*/
+.top ul li{
+	margin-left: 60px; 
+	list-style: none;
+	float:left;
+	line-height: 60px;
+	margin-top:30px;
+}
+.top ul li a {
+	text-decoration: none;
+	color:#000;
+}
+.zr{
+	width:1200px;	
+}
+.zr ul{
+	width:1050px;
+	position:absolute;
+	top:115px;
+	left:12%;
+}
+.zr  li{
+	margin-left:10px;
+	float:left;
+}
+.zr  li:nth-of-type(1) hr{
+	width:440px; 
+	color:#000;
+	margin-top:10px;
+	margin-left:20px;
+}
+.zr  li h1{
+	font-size:16px;
+	text-decoration:none;
+	color:white;
+}
+.zr  li:nth-of-type(3) hr{
+	width:440px; 
+	color:#000;
+	margin-top:9px;
+	margin-left:58%;
+	float:right;
+}
+.zr .zaz{
+	width:800px;
+	margin: 40px auto 0;
+	margin-left:161px;
+}
+.zr .zaz li{
+	width:180px;
+	height:190px;
+	float:left;
+	margin:20px 5px;
+	overflow: hidden;
+}
+.zr .zaz li img{
+	width:250px;
+	height:190px;
+}
+.zr .zaa{
+	width:300px;
+	height:50px;
+	margin-top: 725px;
+	margin-left:385px;
+}
+.zr .zaa li{
+	float:left;
+	margin:0px 10px;
+	cursor: pointer;
+}
+.zr .zaa li:nth-of-type(2) a{
+	background: red;
+}
+.NR>ul{
+	left:36%;
+	font-size:16px;
+	color:white;
+}
+.NR>ul p{
+	cursor:pointer;
+}
+
+.zr img{
+	width:250px;
+	height:190px;
+}
+.zr div:nth-of-type(1){
+	 /*display: none; */
+}
+.zr div:nth-of-type(2){
+	display: none;
+}
+.zr div:nth-of-type(3){
+	display: none;
+}
+.zr div:nth-of-type(4){
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
